@@ -1,3 +1,5 @@
+## 📁 Project Structure
+
 frontend/
 ├── public/ # Static HTML & assets
 ├── src/
@@ -5,6 +7,6 @@ frontend/
 │ ├── pages/ # Main pages (Home, Login, Signup, etc.)
 │ ├── App.js # App routing and structure
 │ ├── index.js # React DOM rendering
-│ └── ...
-├── package.json
-└── README.md
+│ └── ... # Other utils or context files
+├── package.json # Project dependencies and scripts
+└── README.md # Project documentation
